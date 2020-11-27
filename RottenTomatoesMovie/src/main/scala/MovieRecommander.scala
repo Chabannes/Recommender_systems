@@ -188,7 +188,6 @@ object MovieRecommander {
       rec.show(20)
     }
 
-
     val find_similar_movie_than = false
     val target_movie = "'Once Upon a Time in the West'"
     //  FIND SIMILAR MOVIES THAN A TARGET MOVIE BASED ON MOVIES FEATURES
